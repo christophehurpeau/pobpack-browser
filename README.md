@@ -1,5 +1,7 @@
 # pobpack-browser [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/pobpack-browser.svg)](https://greenkeeper.io/)
+
 Build and run browser projects with webpack and webpack-dev-server.
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
